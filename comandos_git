@@ -2,3 +2,4 @@ git init -> inicia o versionamento na pasta selecionada
 git status -> mostra o status do trabalho.
 git add nome_do_arquivo - adiciona o arquivo na lista do commit
 git commit -m "descreva aqui" -> salva o estado atual dos arquivos e documentos que foram adicionados na lista de commit através do add, salvando o seu estado atual 
+apenas um teste agora 
