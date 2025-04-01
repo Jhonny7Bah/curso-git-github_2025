@@ -1,6 +1,0 @@
-ls - mesma coisa que o dir
-cd - não muda nada do batch script
-pwd - mostra onde eu me encontro no momento
-rm nome_do_arquivo.txt -> apaga um arquivo
-rm -rf -> força o apagamento de algo e deleta subpastas, ou seja, o r apagar uma pasta. 
-é apenas isso 
